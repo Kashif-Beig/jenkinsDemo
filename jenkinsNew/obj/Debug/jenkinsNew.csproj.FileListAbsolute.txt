@@ -1,0 +1,7 @@
+C:\Users\Kashif\source\repos\jenkinsNew\jenkinsNew\bin\Debug\jenkinsNew.exe.config
+C:\Users\Kashif\source\repos\jenkinsNew\jenkinsNew\bin\Debug\jenkinsNew.exe
+C:\Users\Kashif\source\repos\jenkinsNew\jenkinsNew\bin\Debug\jenkinsNew.pdb
+C:\Users\Kashif\source\repos\jenkinsNew\jenkinsNew\obj\Debug\jenkinsNew.csprojAssemblyReference.cache
+C:\Users\Kashif\source\repos\jenkinsNew\jenkinsNew\obj\Debug\jenkinsNew.csproj.CoreCompileInputs.cache
+C:\Users\Kashif\source\repos\jenkinsNew\jenkinsNew\obj\Debug\jenkinsNew.exe
+C:\Users\Kashif\source\repos\jenkinsNew\jenkinsNew\obj\Debug\jenkinsNew.pdb
