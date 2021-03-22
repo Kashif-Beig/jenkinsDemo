@@ -13,6 +13,8 @@ namespace jenkinsNew
             Console.WriteLine("Hello Jenkins");
             Console.WriteLine("Hello ");
             Console.Read();
+            Console.WriteLine("Sync");
+
         }
     }
 }
